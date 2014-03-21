@@ -1,9 +1,0 @@
-Applicazione di monitoraggio musei
-L’applicazione dovrà essere (inizialmente) disponibile solamente in ambiente web (-» no ambiente dedicato su singoli sistemi) e dovrà permettere di visualizzare
-• un elenco di musei (in che zona?) divisibili per tipologia
-• la possibilità di vedere una presentazione del museo (dove si trova, orario di apertura, eventi, storico del museo)
-• le condizioni meteo presenti in zona (importante, nella presentazione deve esservi una voce “mostra all’aperto/chiuso”)
-• una media degli utenti che sono entrati nel museo (almeno del giorno prima, con grafico dell’affluenza)
-• una media di quanti utenti ci sono ora nel museo
-• le eventuali code per la biglietteria
-• rimandare alla pagina del museo/dove fare i biglietti online (se possibile)
